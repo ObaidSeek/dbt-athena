@@ -59,9 +59,9 @@ setup(
         ]
     },
     install_requires=[
-        "dbt-core==0.21.0",
-        "pyathena==2.2.0",
-        "boto3==1.18.12",
-        "tenacity==6.3.1",
+        "dbt-core==1.5.0",
+        "pyathena==3.0.6",
+        "boto3==1.28.26",
+        "tenacity==8.2.3",
     ]
 )
